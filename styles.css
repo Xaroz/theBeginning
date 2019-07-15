@@ -1,0 +1,16 @@
+strong{
+    color: red;
+}
+body{
+    background-color:  #EEEEEE;
+}
+h1{
+    font-size: 26px;
+}
+p{
+    font-size: 14px;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
