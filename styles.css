@@ -9,8 +9,46 @@ h1{
 }
 p{
     font-size: 14px;
+    text-align: center;
 }
-a{
-    color:white;
+.button{
+    color: #FFF;
+    background-color: #5995DA;    
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;    
+    border-radius: 5px;
+
+    width: 200px;
+    margin: 20px auto;
+}
+.page{
+    width: 600px;
+    margin: 0 auto;
+} 
+.button:link,.button:visited{
+    display: block;
     text-decoration: none;
+
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 200px;
+    margin: 20px auto;
+}
+.button:hover,.button:visited:hover{
+    color: azure;
+    background-color: rgb(230, 25, 25);
+    border: 2px solid rgba(26, 25, 25, 0.856);
+}
+.button:active,
+.button:visited:active {
+    color: black;
+    background-color:rgb(190, 59, 59);
+    border: 2px solid gray;
 }
