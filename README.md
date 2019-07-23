@@ -1,2 +1,1 @@
-# theBeginning
-Starting the path towards greatness
+# Tutorial from InternetingIsHard.
