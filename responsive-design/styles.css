@@ -39,6 +39,19 @@ background-color: #F09A9D;
 .feature-3{
 background-color: #C8C6FA;
 }
+.illustration img{
+    width: 100%;
+    display: block;
+}
+.header{
+    height: auto;
+    justify-content: inherit;
+    align-content: inherit;
+}
+.photo img{
+    width: 100%;
+    display: block;
+}
 /* Mobile styles */
 @media only screen and (max-width: 400px){
     body{
